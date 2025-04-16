@@ -4,13 +4,13 @@
 
 ### ✨ Обо мне ✨
 
-Я Frontend-разработчик из России:
+**Я Frontend-разработчик из России:**
 
 <p>🤓 люблю изучать новое, оптимизировать и структурировать</p>
 <p>🌱 с удовольствием снедряю полученные знания в свои проекты</p>
-<p>❤️ мне нравится, когда веб-сайты и прилодения получаются удобными в использовании, функциональными и красивыми</p>
+<p>❤️ мне нравится, когда веб-сайты и прилодения получаются удобными в использовании, функциональными и красивыми</p><br>
 
-Когда я не кодю, люблю:
+**Когда я не кодю, люблю:**
 
 <p>📸 фотографировать, особенно люблю стрит фото, фото природы и животных</p>
 <p>💃 танцевать парные и сольные танцы</p>
@@ -25,7 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite"alt="Vite" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Git" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
