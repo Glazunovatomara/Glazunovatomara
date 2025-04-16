@@ -1,8 +1,45 @@
-## Hi there 👋
+## Привет, меня зовут Томара 👋
+
+---
+
+### ✨ Обо мне ✨
+
+Я Frontend-разработчик из России:
+🤓 люблю изучать новое, оптимизировать и структурировать
+🌱 с удовольствием снедряю полученные знания в свои проекты
+❤️ мне нравится, когда веб-сайты и прилодения получаются удобными в использовании, функциональными и красивыми
+
+Когда я не кодю, люблю:
+📸 фотографировать, особенно люблю стрит фото, фото природы и животных
+💃 танцевать парные и сольные танцы
+🇯🇵 учить новые языки, сейчас учу японский
+
+---
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Языки и инструменты
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite"alt="Git" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
+
+---
+
+### 🔥 Моя cтатистика
 
 <div align="center">
-### 🔥 Моя cтатистика
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glazunovatomara&theme=vue" alt=""/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glazunovatomara&theme=vue" alt=""/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glazunovatomara&theme=vue" alt=""/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Glazunovatomara&theme=vue" alt=""/>
 </div>
+
 <!--
 **Glazunovatomara/Glazunovatomara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
----
-
-<div align="center">
-
-### 🔥 Моя cтатистика
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Glazunovatomara&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glazunovatomara&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Glazunovatomara&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Glazunovatomara&theme=vue)
-
-</div>
