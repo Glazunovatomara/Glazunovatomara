@@ -4,7 +4,7 @@
 
 ### ✨ Обо мне ✨
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Glazunovatomara&abbreviated=true&style=plastic&color=41B884" alt="badges"/></div>
+<img src="https://komarev.com/ghpvc/?username=Glazunovatomara&abbreviated=true&style=plastic&color=41B884" alt="badges"/>
 
 **Я Frontend-разработчик из России:**
 
