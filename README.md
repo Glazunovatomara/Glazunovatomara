@@ -1,8 +1,10 @@
-## Привет, меня зовут Томара 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=41B884&vCenter=true&width=435&height=16&lines=Hello%2C+world!_)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=41B884&vCenter=true&width=435&height=16&lines=Hello%2C+world!_)](https://git.io/typing-svg) , меня зовут Томара 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=41B884&center=true&vCenter=true&width=510&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+Github+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%5E.%5E)](https://git.io/typing-svg)
 
 ### ✨ Обо мне ✨
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Glazunovatomara&abbreviated=true&style=plastic&color=41B884" alt="badges"/></div>
 
 **Я Frontend-разработчик из России:**
 
@@ -26,6 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Git" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
