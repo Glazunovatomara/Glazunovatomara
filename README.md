@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tomara9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glazunovatomara5@gmail.com)
-[![Яндекс](https://img.shields.io/badge/Яндекс-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaraglazunova@yandex.ru)
+[![Яндекс](https://img.shields.io/badge/Яндекс-ffcc00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaraglazunova@yandex.ru)
 
 ### ✨ Обо мне ✨
 
