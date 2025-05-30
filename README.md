@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=41B884&center=true&vCenter=true&height=20&width=510&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+Github+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%5E.%5E)](https://git.io/typing-svg) <img src="https://komarev.com/ghpvc/?username=Glazunovatomara&abbreviated=true&style=plastic&color=41B884" alt="badges"/>
 
+### Мои контакты:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tomara9)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glazunovatomara5@gmail.com)
+[![Яндекс](https://img.shields.io/badge/Яндекс-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaraglazunova@yandex.ru)
+
 ### ✨ Обо мне ✨
 
 **Я Frontend-разработчик из России:**
